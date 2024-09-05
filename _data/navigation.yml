@@ -20,6 +20,9 @@ main:
   # - title: "Blog Posts"
     # url: /year-archive/
     
+  - title: "Research"
+    url: https://scholar.google.com/citations?user=wLHsNGgAAAAJ&hl=en 
+    
   - title: "CV"
     url: /files/MaoLIn_He__CV.pdf
     
