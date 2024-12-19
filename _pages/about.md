@@ -19,7 +19,7 @@ My primary research interests are centered around NLP. My research is motivated 
 Education
 ======
 * The University of Melbourne (QS14)
-  * Master of Information Technology (with Distinction), [[Thesis](https://github.com/rinmy23/rinmy23.github.io/blob/master/files/paper1.pdf)][[Transcripts](https://github.com/rinmy23/rinmy23.github.io/blob/master/files/paper2.pdf)]
+  * Master of Information Technology (with Distinction), [[Thesis1:submitted to IEEE jbhi](https://github.com/rinmy23/rinmy23.github.io/blob/master/files/paper1.pdf)][[Transcripts](https://github.com/rinmy23/rinmy23.github.io/blob/master/files/AHEGS(1).pdf)]
   * GPA: 3.89/4.0, First Class Honours
   * Supervisor: A/Prof Brian Chapman
 
