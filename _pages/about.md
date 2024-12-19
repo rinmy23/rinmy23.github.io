@@ -21,7 +21,7 @@ Education
 * The University of Melbourne (QS14)
   * Master of Information Technology [[Transcripts](/files/AHEGS(1).pdf)], submitted 2 thesis to IEEE jbhi:
     * [[Thesis1](/files/Optimization_in_RAG_CPQA.pdf)]
-    * [[Master Thesis](https://github.com/rinmy23/rinmy23.github.io/blob/master/files/paper1.pdf)][[Marking for Master Thesis](/files/grade.png)]
+    * [[Master Thesis](/files/paper1.pdf)][[Marking for Master Thesis](/files/grade.png)]
   * GPA: 3.89/4.0, First Class Honours
   * Supervisor: [A/Prof Brian Chapman](https://findanexpert.unimelb.edu.au/profile/869156-brian-chapman)
 
