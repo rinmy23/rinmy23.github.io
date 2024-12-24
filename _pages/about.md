@@ -19,7 +19,7 @@ My primary research interests are centered around NLP. My research is motivated 
 Education
 ======
 * The University of Melbourne (QS14)
-  * Master of Information Technology [[Transcripts](/files/transcript.pdf)], submitted 2 papers to IEEE jbhi:
+  * Master of Information Technology [[Transcripts,in Umelb, 80+ is high distinction](/files/transcript.pdf)], submitted 2 papers to IEEE jbhi:
     * [[Thesis1](/files/Optimization_in_RAG_CPQA.pdf)]
     * [[Master Thesis](/files/paper1.pdf)][[Marking for Master Thesis](/files/grade.png)]
   * GPA: 3.89/4.0, First Class Honours
