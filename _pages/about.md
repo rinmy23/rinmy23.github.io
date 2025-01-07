@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I am Maolin He. I am a IT master student at CIS Department of The University of Melbourne, supervised by [A/Prof Brian Chapman](https://findanexpert.unimelb.edu.au/profile/869156-brian-chapman).
 
-My primary research interests are centered around NLP. My research is motivated by the ultimate goal of enhancing information access for newcomers in knowledge-intensive domain. Using, understanding, and improving information retrieval (IR) and large language models (LLMs) can provide us with powerful tools to enhance our research. 
+My primary research interests are information retrieval (IR) and large language models (LLMs) for trustworthy, explainable and adaptive decision supporting and psychology supporting tools in healthcare or academia. it is something practical and potentially helpful to the world. I clearly know that I willing to pay attention to the LLM-related research. Currently, I have conducted two research projects on LLMs with applications in healthcare. Specially, we built medical QA systems use the retrieve-then-read pipeline
 
 Education
 ======
