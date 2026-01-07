@@ -21,8 +21,8 @@ I am motivated by the question of how language models can assist human reasoning
 Education
 ======
 * The University of Melbourne (QS14)
-  * Master of Information Technology [[Transcripts,in Umelb, 80+ is high distinction](/files/transcript.pdf)], submitted 2 papers to IEEE jbhi:
-    * [[Thesis1](/files/optimization_in_RAG_CPQA (2).pdf)]
+  * Master of Information Technology [[Transcripts,in Umelb, 80+ is high distinction](/files/transcript.pdf)], 2 papers:
+    * Query pipeline optimization in cancer question question answering 
     * [[Master Thesis](/files/paper1.pdf)][[Marking for Master Thesis](/files/grade.png)]
   * GPA: 3.89/4.0, First Class Honours
   * Supervisor: [A/Prof Brian Chapman](https://findanexpert.unimelb.edu.au/profile/869156-brian-chapman)
