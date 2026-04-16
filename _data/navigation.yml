@@ -5,14 +5,10 @@
 # prevent it from being included in the site.
 
 main:
-  # - title: "Publications"
-    # url: https://scholar.google.com/citations?user=wLHsNGgAAAAJ&hl=en
+
 
   # - title: "Talks"
     # url: /talks/    
-
-  # - title: "Teaching"
-    # url: /teaching/    
     
   # - title: "Portfolio"
     # url: /portfolio/
@@ -20,11 +16,20 @@ main:
   # - title: "Blog Posts"
     # url: /year-archive/
     
-  - title: "Research"
-    url: https://scholar.google.co.uk/citations?user=MAOAnlQAAAAJ&hl=en 
+  - title: "Publications"
+    url: /publications/
     
   - title: "CV"
     url: /files/MaoLIn_He__CV_20260107.pdf
+    
+  - title: "Teaching & Services"
+    url: /teaching/
+    
+  - title: "Groups"
+    url: /portfolio/
+
+  - title: "Blogs"
+    url: /year-archive/
     
   # - title: "Guide"
   #  url: /markdown/
