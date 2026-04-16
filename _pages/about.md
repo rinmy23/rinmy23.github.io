@@ -12,24 +12,81 @@ Hi! I am Maolin He. I am a IT master student at CIS Department of The University
 
 I am motivated by the question of how language models can assist human reasoning in a way that is faithful to facts, offers diverse perspectives, and supports independent thinking rather than replacing it. My research interests focus on trustworthy large language models and their ability to support reliable interaction in complex scenarios. Specifically, this includes:
 
-* Faithful reasoning and grounding in large language models
+*   Faithful reasoning and grounding in large language models
+*   Reliable knowledge retrieval and representation
+*   Interpretability and robustness of model outputs
 
-* Reliable knowledge retrieval and representation
+---
 
-* Interpretability and robustness of model outputs
+## 📰 News
+<!-- 这里使用了 HTML 制作了一个带滚动条的新闻栏 (height控制高度，overflow-y实现滚动) -->
+<div style="height: 200px; overflow-y: auto; border-left: 3px solid #000; padding-left: 15px; margin-bottom: 20px; background-color: #f9f9f9; padding: 10px;">
+  <ul style="list-style-type: none; padding-left: 0; margin: 0;">
+    
+    <li style="margin-bottom: 10px;">
+      <span style="display: inline-block; width: 100px; font-weight: bold;">Oct, 2024</span>
+      🎉 A paper is accepted by ACL 2026.
+    </li>
+    
+    <li style="margin-bottom: 10px;">
+      <span style="display: inline-block; width: 100px; font-weight: bold;"> Oct, 2024 </span>
+      Graduated from Unimelb！
+    </li>
 
-Education
-======
-* The University of Melbourne (QS14)
-  * Master of Information Technology [[Transcripts,in Umelb, 80+ is high distinction](/files/transcript.pdf)], 2 papers:
-    * Query pipeline optimization in cancer question question answering 
-    * [[Master Thesis](/files/paper1.pdf)][[Marking for Master Thesis](/files/grade.png)]
-  * GPA: 3.89/4.0, First Class Honours
+  </ul>
+</div>
+
+## 📝 Selected Publications
+*(See my full publications at [Google Scholar]([#](https://scholar.google.co.uk/citations?user=MAOAnlQAAAAJ&hl=en)) *
+
+<!-- 第一篇论文 -->
+<div style="margin-bottom: 20px;">
+  <div style="font-weight: bold; font-size: 1.1em; margin-bottom: 5px;">
+    Query pipeline optimization in cancer question answering (Your Paper Title)
+  </div>
+  <div style="margin-bottom: 2px;">
+    <u>MaoLin He</u>, Co-author 2, A/Prof Brian Chapman
+  </div>
+  <div style="font-style: italic; color: #555; margin-bottom: 5px;">
+    In Submission / Preprint / Master Thesis, 2024
+  </div>
+  <!-- 仿照你截图中的按钮样式 -->
+  <div>
+    <a href="/files/paper1.pdf" style="display: inline-block; border: 1px solid #333; padding: 2px 8px; text-decoration: none; color: #333; font-size: 0.85em; margin-right: 5px; border-radius: 3px; font-family: monospace;">PDF</a>
+    <a href="https://github.com/your-github" target="_blank" style="display: inline-block; border: 1px solid #333; padding: 2px 8px; text-decoration: none; color: #333; font-size: 0.85em; margin-right: 5px; border-radius: 3px; font-family: monospace;">CODE</a>
+    <a href="/files/grade.png" style="display: inline-block; border: 1px solid #333; padding: 2px 8px; text-decoration: none; color: #333; font-size: 0.85em; border-radius: 3px; font-family: monospace;">MARKING</a>
+  </div>
+</div>
+
+<!-- 示例：第二篇论文 -->
+<div style="margin-bottom: 20px;">
+  <div style="font-weight: bold; font-size: 1.1em; margin-bottom: 5px;">
+    Another Awesome Paper about Trustworthy LLMs
+  </div>
+  <div style="margin-bottom: 2px;">
+    Author 1, <u>MaoLin He</u>, Author 3
+  </div>
+  <div style="font-style: italic; color: #555; margin-bottom: 5px;">
+    Conference on Empirical Methods in Natural Language Processing (EMNLP), 2023
+  </div>
+  <div>
+    <a href="#" style="display: inline-block; border: 1px solid #333; padding: 2px 8px; text-decoration: none; color: #333; font-size: 0.85em; margin-right: 5px; border-radius: 3px; font-family: monospace;">ABS</a>
+    <a href="#" style="display: inline-block; border: 1px solid #333; padding: 2px 8px; text-decoration: none; color: #333; font-size: 0.85em; border-radius: 3px; font-family: monospace;">PDF</a>
+  </div>
+</div>
+
+---
+
+## 🎓 Education
+
+* **The University of Melbourne (QS 14)**
+  * Master of Information Technology
+  * *GPA: 3.89/4.0 (First Class Honours)* [[Transcripts, 80+ is high distinction](/files/transcript.pdf)]
   * Supervisor: [A/Prof Brian Chapman](https://findanexpert.unimelb.edu.au/profile/869156-brian-chapman)
 
-* Beijing Normal University (QS271)
+* **Beijing Normal University (QS 271)**
   * Bachelor of Science (Computer Science and Technology)
-  * Bronze Medal of China Collegiate Programming Contest (twice)
+  * Awards: Bronze Medal of China Collegiate Programming Contest (twice)
 
 
 
