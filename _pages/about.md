@@ -54,7 +54,7 @@ I am motivated by the question of how language models can assist human reasoning
   </div> -->
   <div>
     <strong> ACL 2026 </strong> 
-    <span style="color: #aaa; margin: 0 4px;">|</span> <a href="/files/paper1.pdf" style="display: inline-block; border: 1px solid #333; padding: 2px 8px; text-decoration: none; color: #333; font-size: 0.85em; margin-right: 5px; border-radius: 3px; font-family: monospace;">PDF</a>
+    <span style="color: #aaa; margin: 0 4px;">|</span> <a href="/files/paper2.pdf" style="display: inline-block; border: 1px solid #333; padding: 2px 8px; text-decoration: none; color: #333; font-size: 0.85em; margin-right: 5px; border-radius: 3px; font-family: monospace;">PDF</a>
     <span style="color: #aaa; margin: 0 4px;">|</span> <a href="https://arxiv.org/abs/2412.14751" style="display: inline-block; border: 1px solid #333; padding: 2px 8px; text-decoration: none; color: #333; font-size: 0.85em; margin-right: 5px; border-radius: 3px; font-family: monospace;">ArXiv</a>
     <span style="color: #aaa; margin: 0 4px;">|</span> <a href="https://github.com/rinmy23/COMP90005" target="_blank" style="display: inline-block; border: 1px solid #333; padding: 2px 8px; text-decoration: none; color: #333; font-size: 0.85em; margin-right: 5px; border-radius: 3px; font-family: monospace;">CODE</a>
     <span style="color: #aaa; margin: 0 4px;">|</span> <a href="https://openreview.net/forum?id=WeVszZZNp9" style="display: inline-block; border: 1px solid #333; padding: 2px 8px; text-decoration: none; color: #333; font-size: 0.85em; margin-right: 5px; border-radius: 3px; font-family: monospace;">MARKING</a>
