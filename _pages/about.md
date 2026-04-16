@@ -36,6 +36,8 @@ I am motivated by the question of how language models can assist human reasoning
   </ul>
 </div>
 
+---
+
 ## 📝 Selected Publications
 *(See my full publications at [Google Scholar](https://scholar.google.co.uk/citations?user=MAOAnlQAAAAJ&hl=en))*
 
@@ -72,6 +74,7 @@ I am motivated by the question of how language models can assist human reasoning
     <span style="color: #aaa; margin: 0 4px;">|</span> <a href="/files/grade.png" style="display: inline-block; border: 1px solid #333; padding: 2px 8px; text-decoration: none; color: #333; font-size: 0.85em; border-radius: 3px; font-family: monospace;">MARKING</a>
   </div>
 </div>
+
 ---
 
 ## 🎓 Education
