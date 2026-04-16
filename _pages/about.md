@@ -37,7 +37,7 @@ I am motivated by the question of how language models can assist human reasoning
 </div>
 
 ## 📝 Selected Publications
-*(See my full publications at [Google Scholar]([#](https://scholar.google.co.uk/citations?user=MAOAnlQAAAAJ&hl=en)) *
+*(See my full publications at [Google Scholar](https://scholar.google.co.uk/citations?user=MAOAnlQAAAAJ&hl=en))*
 
 <!-- 第一篇论文 -->
 <div style="margin-bottom: 20px;">
@@ -47,34 +47,31 @@ I am motivated by the question of how language models can assist human reasoning
   <div style="margin-bottom: 2px;">
     <u>MaoLin He</u>, Co-author 2, A/Prof Brian Chapman
   </div>
-  <div style="font-style: italic; color: #555; margin-bottom: 5px;">
+  <!-- <div style="font-style: italic; color: #555; margin-bottom: 5px;">
     In Submission / Preprint / Master Thesis, 2024
-  </div>
-  <!-- 仿照你截图中的按钮样式 -->
+  </div> -->
   <div>
-    <a href="/files/paper1.pdf" style="display: inline-block; border: 1px solid #333; padding: 2px 8px; text-decoration: none; color: #333; font-size: 0.85em; margin-right: 5px; border-radius: 3px; font-family: monospace;">PDF</a>
-    <a href="https://github.com/your-github" target="_blank" style="display: inline-block; border: 1px solid #333; padding: 2px 8px; text-decoration: none; color: #333; font-size: 0.85em; margin-right: 5px; border-radius: 3px; font-family: monospace;">CODE</a>
-    <a href="/files/grade.png" style="display: inline-block; border: 1px solid #333; padding: 2px 8px; text-decoration: none; color: #333; font-size: 0.85em; border-radius: 3px; font-family: monospace;">MARKING</a>
+    <strong> ACL 2026 </strong> 
+    <span style="color: #aaa; margin: 0 4px;">|</span> <a href="/files/paper1.pdf" style="display: inline-block; border: 1px solid #333; padding: 2px 8px; text-decoration: none; color: #333; font-size: 0.85em; margin-right: 5px; border-radius: 3px; font-family: monospace;">PDF</a>
+    <span style="color: #aaa; margin: 0 4px;">|</span> <a href="https://arxiv.org/abs/2412.14751" style="display: inline-block; border: 1px solid #333; padding: 2px 8px; text-decoration: none; color: #333; font-size: 0.85em; margin-right: 5px; border-radius: 3px; font-family: monospace;">ArXiv</a>
+    <span style="color: #aaa; margin: 0 4px;">|</span> <a href="https://github.com/rinmy23/COMP90005" target="_blank" style="display: inline-block; border: 1px solid #333; padding: 2px 8px; text-decoration: none; color: #333; font-size: 0.85em; margin-right: 5px; border-radius: 3px; font-family: monospace;">CODE</a>
+    <span style="color: #aaa; margin: 0 4px;">|</span> <a href="https://openreview.net/forum?id=WeVszZZNp9" style="display: inline-block; border: 1px solid #333; padding: 2px 8px; text-decoration: none; color: #333; font-size: 0.85em; margin-right: 5px; border-radius: 3px; font-family: monospace;">MARKING</a>
   </div>
 </div>
 
 <!-- 示例：第二篇论文 -->
 <div style="margin-bottom: 20px;">
   <div style="font-weight: bold; font-size: 1.1em; margin-bottom: 5px;">
-    Another Awesome Paper about Trustworthy LLMs
+    Creating a Cancer Patient-facing Question Answering System using LLMs
   </div>
   <div style="margin-bottom: 2px;">
-    Author 1, <u>MaoLin He</u>, Author 3
-  </div>
-  <div style="font-style: italic; color: #555; margin-bottom: 5px;">
-    Conference on Empirical Methods in Natural Language Processing (EMNLP), 2023
-  </div>
+    <u>MaoLin He</u>
   <div>
-    <a href="#" style="display: inline-block; border: 1px solid #333; padding: 2px 8px; text-decoration: none; color: #333; font-size: 0.85em; margin-right: 5px; border-radius: 3px; font-family: monospace;">ABS</a>
-    <a href="#" style="display: inline-block; border: 1px solid #333; padding: 2px 8px; text-decoration: none; color: #333; font-size: 0.85em; border-radius: 3px; font-family: monospace;">PDF</a>
+    <strong> Master Thesis, 2024 </strong> 
+    <span style="color: #aaa; margin: 0 4px;">|</span> <a href="/files/paper1.pdf" style="display: inline-block; border: 1px solid #333; padding: 2px 8px; text-decoration: none; color: #333; font-size: 0.85em; margin-right: 5px; border-radius: 3px; font-family: monospace;">PDF</a>
+    <span style="color: #aaa; margin: 0 4px;">|</span> <a href="/files/grade.png" style="display: inline-block; border: 1px solid #333; padding: 2px 8px; text-decoration: none; color: #333; font-size: 0.85em; border-radius: 3px; font-family: monospace;">MARKING</a>
   </div>
 </div>
-
 ---
 
 ## 🎓 Education
